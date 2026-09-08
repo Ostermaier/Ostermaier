@@ -157,7 +157,7 @@ Note Diplomarbeit: 1,5
 
 <br>
 
-## 🛠️ Tech-Stack & Skills
+## 🛠️  Technisches Profil & Qualifikationen
 
 <table>
 <tr>
@@ -179,7 +179,7 @@ Note Diplomarbeit: 1,5
 <td width="120"><img src="assets/logo-dotnet.png" width="100" alt=".NET Logo"/></td>
 <td>
 
-**Frameworks & UI**
+**Frameworks**
 - .NET
 - WPF
 - CSS3
@@ -207,7 +207,7 @@ Note Diplomarbeit: 1,5
 <td width="120"><img src="assets/logo-tools.png" width="100" alt="Development Tools Logo"/></td>
 <td>
 
-**Development Tools & IDEs**
+**Entwicklungsumgebungen**
 - Visual Studio
 - Visual Studio Code
 - Eclipse
@@ -251,15 +251,15 @@ Note Diplomarbeit: 1,5
 <td width="120"><img src="assets/logo-azure.png" width="100" alt="Azure Logo"/></td>
 <td>
 
-**Projektmanagement & Collaboration**
+**Projektmanagement & Kooperation**
 - Azure DevOps
 - Asana
 - Agile / Scrum
-- Team Leadership & Mentoring
+- Teamführung 
 - Anforderungsmanagement & Spezifikation (Lastenheft, Pflichtenheft)
 - Performance Level Management
-- Technical Documentation
-- Product Lifecycle Management
+- Technische Dokumentation
+- Produktlebenszyklus-Management
 
 </td>
 </tr>
