@@ -128,7 +128,7 @@ Als externer Mitarbeiter bei der Firma Marquardt GmbH im Bereich Fertigungsnahe 
 
 <table>
 <tr>
-<td width="100"><img src="assets/logo-fh-albsig.png" width="120" alt="FH Albstadt-Sigmaringen Logo"/></td>
+<td width="120"><img src="assets/logo-fh-albsig.png" width="100" alt="FH Albstadt-Sigmaringen Logo"/></td>
 <td>
 
 **Fachhochschule Albstadt-Sigmaringen**
