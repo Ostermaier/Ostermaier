@@ -76,6 +76,19 @@ Systemintegration: Integration und Validierung externer Sensorik und Aktorik.
 
 Weiterführung der bisherigen Position nach Übergang eines Teilbetriebs von Schmid Technology Systems GmbH zu montratec GmbH.
 
+<details>
+<summary><b>📂 Projekte</b></summary>
+</br>
+
+**🛠️ Neuentwicklung des proprietären Materialflusscontrollers**
+*Intralogistik*  
+📅 Apr. 2017– Dez. 2020 · 2 Jahre 8 Monate &nbsp;|&nbsp; 📍 Niedereschach, Vor Ort und europaweit (Kundeneinsätze)  
+
+* **Beschreibung:** Fachliche Koordination eines externen Entwicklungsbüros und eigene Mitwirkung an der Backend-Neuentwicklung des proprietären Materialflusscontrollers.
+Installation, kundenspezifische Anpassung, Inbetriebnahme und Optimierung des MFC mit Kunden.
+* **Details:** Datenerfassung von Anlageninformationen via UDP/OPC, Datenaufbereitung und -persistierung in der DB sowie ereignisgesteuerte Anstoßung nachgelagerter Automatisierungsfunktionen. Ziel war eine zukunftssichere, aktuelle Technologiebasis (.NET, Windows Service). Zusätzlich wurden das Handling durch ein eigenes VS-Code-AddOn zur Funktionserstellung vereinfacht sowie eine automatische Shuttle-Routenplanung auf Basis des Dijkstra-Algorithmus realisiert.
+</br>
+</details>
 </td>
 </tr>
 </table>
@@ -95,6 +108,25 @@ Weiterführung der bisherigen Position nach Übergang eines Teilbetriebs von Sch
 
 Anlagenvisualisierung im Bereich Anlagenbau für die Photovoltaik-Industrie. Teamleitung ab Januar 2016.
 
+<details>
+<summary><b>📂 Projekte</b></summary>
+</br>
+
+**🛠️ Technische Produktübernahme: Montratec Shuttlesystem**
+*Intralogistik*  
+📅 Januar 2014 – Apr. 2017 · 7 Monate &nbsp;|&nbsp; 📍 Niedereschach, Vor Ort und weltweit (Kundeneinsätze)  
+
+* **Beschreibung:** Übernahme der technischen und fachlichen Verantwortung für die Software nach Standortwechsel des Produkts. Weiterentwicklung und Bugfixing des bestehenden Systems. Integration des Produkts in das bestehende Portfolio.
+* **Details:** Erfolgreiche Durchführung des Technologietransfers inklusive technischem Know-how-Transfer, Aufbau einer zeitgemäßen Entwicklungsumgebung sowie Implementierung der zugehörigen Build-Prozesse am neuen Standort.
+</br>
+
+**🛠️ Webbasiertes Anlagenvisualisierungs- und Steuerungssystem**
+*Photovoltaik-Fertigungsanlagenbau*  
+📅 Juni 2008 – Dezember 2015 · 7 Jahre 7 Monate &nbsp;|&nbsp; 📍 Niedereschach, Vor Ort und weltweit (Kundeneinsätze)  
+
+* **Beschreibung:** Weiterentwicklung kundenspezifische Anpassung einer proprietäre Unternehmenssoftware zur dynamischen Visualisierung und Steuerung der Anlage. 
+* **Details:** Konzeption und Umsetzung zentraler Funktionsbereiche wie Live-Datenanzeige, Historienauswertung, Benutzerverwaltung, Maintenance-Funktionen sowie Fehlermeldungsmanagement. Realisierung als webbasierte Anwendung auf Basis von ASP und JavaScript (Frontend/Logik) sowie MS SQL (Datenbank), gehostet auf IIS.
+</details>
 </td>
 </tr>
 <tr>
