@@ -223,6 +223,22 @@ Note Diplomarbeit: 1,5
 
 <table>
 <tr>
+<td width="120"><img src="assets/logo-azure.png" width="100" alt="Azure Logo"/></td>
+<td>
+
+**Projektmanagement & Kooperation**
+- Azure DevOps
+- Asana
+- Agile / Scrum
+- Teamführung
+- Anforderungsmanagement & Spezifikation (Lastenheft, Pflichtenheft)
+- Performance Level Management
+- Technische Dokumentation
+- Produktlebenszyklus-Management
+
+</td>
+</tr>
+<tr>
 <td width="120"><img src="assets/logo-cpp.png" width="100" alt="C++ Logo"/></td>
 <td>
 
@@ -234,9 +250,6 @@ Note Diplomarbeit: 1,5
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="120"><img src="assets/logo-dotnet.png" width="100" alt=".NET Logo"/></td>
 <td>
@@ -249,9 +262,6 @@ Note Diplomarbeit: 1,5
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="120"><img src="assets/logo-sql.png" width="100" alt="SQL Server Logo"/></td>
 <td>
@@ -262,9 +272,6 @@ Note Diplomarbeit: 1,5
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="120"><img src="assets/logo-tools.png" width="100" alt="Development Tools Logo"/></td>
 <td>
@@ -273,19 +280,16 @@ Note Diplomarbeit: 1,5
 - Visual Studio
 - Visual Studio Code
 - Eclipse
-- MPLAB 
+- MPLAB
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="120"><img src="assets/logo-protocol.png" width="100" alt="Protokoll Logo"/></td>
 <td>
 
 **Kommunikation & Protokolle**
-- TCP/IP
+- UDP & TCP/IP
 - CAN-Bus
 - OPC UA
 - OPC DA
@@ -293,9 +297,6 @@ Note Diplomarbeit: 1,5
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="120"><img src="assets/logo-os.png" width="100" alt="Betriebssystem Logo"/></td>
 <td>
@@ -306,25 +307,7 @@ Note Diplomarbeit: 1,5
 
 </td>
 </tr>
-</table>
 
-<table>
-<tr>
-<td width="120"><img src="assets/logo-azure.png" width="100" alt="Azure Logo"/></td>
-<td>
-
-**Projektmanagement & Kooperation**
-- Azure DevOps
-- Asana
-- Agile / Scrum
-- Teamführung 
-- Anforderungsmanagement & Spezifikation (Lastenheft, Pflichtenheft)
-- Performance Level Management
-- Technische Dokumentation
-- Produktlebenszyklus-Management
-
-</td>
-</tr>
 </table>
 
 <br>
