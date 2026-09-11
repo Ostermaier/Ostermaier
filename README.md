@@ -37,24 +37,10 @@ Hardwareentwicklung:
 Leitung der Hardwareentwicklung mit Fokus auf PCB-Design, Layout und Validierung.
 
 Systemintegration: Integration und Validierung externer Sensorik und Aktorik.
-
-</td>
-</tr>
-
-<!--</table>-->
-
-<!--<details>-->
-
-<!--<summary><b>montratec GmbH</b> · Vollzeit · 7 Jahre 3 Monate · Hybrid (weitere Stationen anzeigen)</summary>-->
-
-<!--<br>-->
-
-
-<!--<table>-->
-<tr>
-<td width="120"><img src="assets/logo-montratec.png" width="100" alt="montratec Logo"/></td>
-<td>
-
+<details>
+<summary><b>weitere Stationen</b></summary>
+</br>
+  
 **Director of Development Electrical Engineering**
 *montratec GmbH* · Vollzeit</br>
 📅 Dezember 2020 – Juni 2024 · 3 Jahre 7 Monate &nbsp;|&nbsp; 📍 Dauchingen
@@ -94,12 +80,6 @@ Systemintegration: Integration und Validierung externer Sensorik und Aktorik.
 
 </details>
 
-</td>
-</tr>
-<tr>
-<td width="120"><img src="assets/logo-montratec.png" width="100" alt="montratec Logo"/></td>
-<td>
-
 **Electrical Engineering Team Visualization**
 *montratec GmbH* · Vollzeit</br>
 📅 April 2017 – Dezember 2020 · 3 Jahre 9 Monate &nbsp;|&nbsp; 📍 Niedereschach
@@ -119,18 +99,6 @@ Installation, kundenspezifische Anpassung, Inbetriebnahme und Optimierung des Ma
 * **Details:** Datenerfassung von Anlageninformationen via UDP/OPC, Datenaufbereitung und -persistierung in der DB sowie ereignisgesteuerte Anstoßung nachgelagerter Automatisierungsfunktionen. Ziel war eine zukunftssichere, aktuelle Technologiebasis (.NET, Windows Service). Zusätzlich wurden das Handling durch ein eigenes VS-Code-AddOn zur Funktionserstellung vereinfacht sowie eine automatische Shuttle-Routenplanung auf Basis des Dijkstra-Algorithmus realisiert.
 </br>
 </details>
-</td>
-</tr>
-<!--</table>-->
-
-<!--</details>-->
-
-<br>
-
-<!--<table>-->
-<tr>
-<td width="120"><img src="assets/logo-schmid.png" width="100" alt="Schmid Technology Systems Logo"/></td>
-<td>
 
 **Electrical Engineering Team Visualization**
 *Schmid Technology Systems* · Vollzeit</br>
@@ -156,6 +124,7 @@ Anlagenvisualisierung im Bereich Anlagenbau für die Photovoltaik-Industrie. Tea
 
 * **Beschreibung:** Weiterentwicklung kundenspezifische Anpassung einer proprietäre Unternehmenssoftware zur dynamischen Visualisierung und Steuerung der Anlage. 
 * **Details:** Konzeption und Umsetzung zentraler Funktionsbereiche wie Live-Datenanzeige, Historienauswertung, Benutzerverwaltung, Maintenance-Funktionen sowie Fehlermeldungsmanagement. Realisierung als webbasierte Anwendung auf Basis von ASP und JavaScript (Frontend/Logik) sowie MS SQL (Datenbank), gehostet auf IIS.
+</details>
 </details>
 </td>
 </tr>
