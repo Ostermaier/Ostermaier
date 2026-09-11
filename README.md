@@ -20,7 +20,7 @@ Software Developer & Team Manager | Spezialisiert auf Team Leadership & industri
 
 <table>
 <tr>
-<td width="120"><img src="assets/logo-montratec.png" width="100" alt="montratec Logo"/></td>
+<td width="160"><img src="assets/logo-montratec.png" width="150" alt="montratec Logo"/></td>
 <td>
 
 **Manager Software & Electrical Development**
@@ -129,7 +129,7 @@ Anlagenvisualisierung im Bereich Anlagenbau für die Photovoltaik-Industrie. Tea
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-marquardt.png" width="100" alt="Marquardt Logo"/></td>
+<td width="160"><img src="assets/logo-marquardt.png" width="150" alt="Marquardt Logo"/></td>
 <td>
 
 **Softwareentwickler**
@@ -141,7 +141,7 @@ Softwareentwicklung im Bereich Fertigungsnahe IT-Systeme
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-csplus.png" width="120" alt="C/SPlus Logo"/></td>
+<td width="160"><img src="assets/logo-csplus.png" width="150" alt="C/SPlus Logo"/></td>
 <td>
 
 **Softwareentwickler**
@@ -159,7 +159,7 @@ Als externer Mitarbeiter bei der Firma Marquardt GmbH im Bereich Fertigungsnahe 
 
 <table>
 <tr>
-<td width="120"><img src="assets/logo-fh-albsig.png" width="100" alt="FH Albstadt-Sigmaringen Logo"/></td>
+<td width="160"><img src="assets/logo-fh-albsig.png" width="150" alt="FH Albstadt-Sigmaringen Logo"/></td>
 <td>
 
 **Fachhochschule Albstadt-Sigmaringen**
@@ -192,7 +192,7 @@ Note Diplomarbeit: 1,5
 
 <table>
 <tr>
-<td width="120"><img src="assets/logo-azure.png" width="100" alt="Azure Logo"/></td>
+<td width="160"><img src="assets/logo-azure.png" width="150" alt="Azure Logo"/></td>
 <td>
 
 **Projektmanagement & Kooperation**
@@ -208,7 +208,7 @@ Note Diplomarbeit: 1,5
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-cpp.png" width="100" alt="C++ Logo"/></td>
+<td width="160"><img src="assets/logo-cpp.png" width="150" alt="C++ Logo"/></td>
 <td>
 
 **Programmiersprachen**
@@ -220,7 +220,7 @@ Note Diplomarbeit: 1,5
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-dotnet.png" width="100" alt=".NET Logo"/></td>
+<td width="160"><img src="assets/logo-dotnet.png" width="150" alt=".NET Logo"/></td>
 <td>
 
 **Frameworks**
@@ -232,7 +232,7 @@ Note Diplomarbeit: 1,5
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-sql.png" width="100" alt="SQL Server Logo"/></td>
+<td width="160"><img src="assets/logo-sql.png" width="150" alt="SQL Server Logo"/></td>
 <td>
 
 **Datenbanken**
@@ -242,7 +242,7 @@ Note Diplomarbeit: 1,5
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-tools.png" width="100" alt="Development Tools Logo"/></td>
+<td width="160"><img src="assets/logo-tools.png" width="150" alt="Development Tools Logo"/></td>
 <td>
 
 **Entwicklungsumgebungen**
@@ -254,7 +254,7 @@ Note Diplomarbeit: 1,5
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-protocol.png" width="100" alt="Protokoll Logo"/></td>
+<td width="160"><img src="assets/logo-protocol.png" width="150" alt="Protokoll Logo"/></td>
 <td>
 
 **Kommunikation & Protokolle**
@@ -267,7 +267,7 @@ Note Diplomarbeit: 1,5
 </td>
 </tr>
 <tr>
-<td width="120"><img src="assets/logo-os.png" width="100" alt="Betriebssystem Logo"/></td>
+<td width="160"><img src="assets/logo-os.png" width="150" alt="Betriebssystem Logo"/></td>
 <td>
 
 **Betriebssysteme**
