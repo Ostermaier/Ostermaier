@@ -37,6 +37,20 @@ Hardwareentwicklung:
 Leitung der Hardwareentwicklung mit Fokus auf PCB-Design, Layout und Validierung.
 
 Systemintegration: Integration und Validierung externer Sensorik und Aktorik.
+
+<details>
+<summary><b>📂 Projekte</b></summary>
+</br>
+
+**🛠️ Neuentwicklung einer Shuttlesteuerung**
+*Intralogistik*  
+📅 Oktober 2023 – Juni 2026 · 2 Jahre 8 Monate &nbsp;|&nbsp; 📍 Niedereschach, vor Ort
+
+* **Beschreibung:** Verantwortung für die komplette Neuentwicklung der Shuttlesteuerung für das montratec Shuttle Portfolio in Zusammenarbeit mit einem externen Entwicklungspartner.
+* **Details:** Das Projekt umfasste die Steigerung der Systemleistung auf 100W sowie die Vorbereitung auf das Performancelevel C nach ASIL-Standard. Im Zuge der Modernisierung wurden sämtliche Komponenten auf den aktuellen Stand der Technik gebracht und zukunftssicher ausgelegt; die Steuerung basiert auf einem modernen STM32-Prozessor unter Verwendung aktueller Firmware-Bibliotheken. Zur proaktiven Fehlererkennung wurden intelligente Predictive-Maintenance-Funktionen integriert, welche auf Vibrationsmessung, Strommessung und Temperaturüberwachung beruhen. Der gesamte Entwicklungszyklus basierte auf kontinuierlichen Anforderungsanalysen, der Erstellung von Lasten- und Pflichtenheften, fundierter Technologie-Selektion sowie der Definition von Sicherheitsfunktionen nach geltenden Normen. Durch mehrstufige Iterationen in der Prototypenverifikation und Validierung wurde die Serienreife erlangt. Vor dem finalen Start der Serienproduktion erfolgte der erfolgreiche Einsatz und die Validierung erster Prototypen bei strategischen Kunden.
+
+</details>
+
 <details>
 <summary><b>weitere Stationen</b></summary>
 </br>
@@ -153,8 +167,6 @@ Als externer Mitarbeiter bei der Firma Marquardt GmbH im Bereich Fertigungsnahe 
 </tr>
 </table>
 
-<br>
-
 ## 🎓 Ausbildung
 
 <table>
@@ -185,8 +197,6 @@ Note Diplomarbeit: 1,5
 - **Realschule Schömberg** · 1994 – 2000
 
 </details>
-
-<br>
 
 ## 🛠️  Technisches Profil & Qualifikationen
 
@@ -276,11 +286,7 @@ Note Diplomarbeit: 1,5
 
 </td>
 </tr>
-
 </table>
-
-<br>
-
 
 ## 🏔️ Hobbys
 
@@ -293,7 +299,10 @@ Note Diplomarbeit: 1,5
 
 </div>
 
-<br>
+## 🤝 Ehrenamtliche Tätigkeiten
+
+- Jugendtrainer Bambinis TG Schömberg Handball
+- Vorstandschaft · Schiedsrichterwart TG Schömberg Handball
 
 ## 📫 Kontakt
 
