@@ -292,10 +292,10 @@ Note Diplomarbeit: 1,5
 
 <div align="left">
 
-![Handball](https://img.shields.io/badge/-Handball-orange?style=flat-square)
-![Motorrad](https://img.shields.io/badge/-Motorrad-black?style=flat-square)
-![Snowboard](https://img.shields.io/badge/-Snowboard-blue?style=flat-square)
+![Familie](https://img.shields.io/badge/-Familie-orange?style=flat-square)
+![Handball](https://img.shields.io/badge/-Handball-red?style=flat-square)
 ![Home Automation](https://img.shields.io/badge/-Home%20Automation-green?style=flat-square)
+![Snowboard](https://img.shields.io/badge/-Snowboard-blue?style=flat-square)
 
 </div>
 
